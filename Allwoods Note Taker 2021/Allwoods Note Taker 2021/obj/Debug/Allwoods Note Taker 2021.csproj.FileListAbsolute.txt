@@ -1,0 +1,30 @@
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csprojAssemblyReference.cache
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods_Note_Taker_2021.Form1.resources
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods_Note_Taker_2021.Properties.Resources.resources
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csproj.GenerateResource.cache
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csproj.CoreCompileInputs.cache
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.exe.config
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.exe
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.pdb
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.exe
+C:\Users\will\source\repos\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.pdb
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.exe.config
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.exe
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.pdb
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csprojAssemblyReference.cache
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods_Note_Taker_2021.Form1.resources
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods_Note_Taker_2021.Properties.Resources.resources
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csproj.GenerateResource.cache
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csproj.CoreCompileInputs.cache
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.exe
+C:\Work and applications\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.pdb
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.exe.config
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.exe
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\bin\Debug\Allwoods Note Taker 2021.pdb
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csprojAssemblyReference.cache
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods_Note_Taker_2021.Form1.resources
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods_Note_Taker_2021.Properties.Resources.resources
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csproj.GenerateResource.cache
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.csproj.CoreCompileInputs.cache
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.exe
+C:\Users\will\OneDrive\Desktop\Programming portfolio\Event Driven code\Allwoods Note Taker 2021\Allwoods Note Taker 2021\obj\Debug\Allwoods Note Taker 2021.pdb
